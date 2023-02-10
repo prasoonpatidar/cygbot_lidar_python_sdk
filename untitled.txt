@@ -1,1 +1,3 @@
 Here is a new text file.
+
+blabla also made the changes.
